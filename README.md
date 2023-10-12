@@ -1,4 +1,4 @@
-![banner](https://github.com/lorainemnrc/rnn-machine-translation/assets/23328647/95d3f068-76d3-4086-86fb-553be5d8ea6c)
+![banner](https://github.com/lorainemnrc/rnn-machine-translation/assets/23328647/6339832a-a139-4781-a1bc-70373585f71d)
 
 <h1 style="color: #1048CB"><b>Overview</b></h1>
 
