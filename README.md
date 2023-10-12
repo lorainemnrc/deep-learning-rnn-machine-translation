@@ -1,14 +1,18 @@
 ![banner](https://github.com/lorainemnrc/rnn-machine-translation/assets/23328647/95d3f068-76d3-4086-86fb-553be5d8ea6c)
 
 <h1 style="color: #1048CB"><b>Overview</b></h1>
+
 <p align="justify"> &emsp;
-Neural machine translation is an approach that utilizes neural networks to transform a sequence of words from a source language, such as English, into a desired target language, such as French. More formally, neural machine translation involves finding the target sentence, denoted as $y$, that maximizes the conditional probability of $y$ given the occurrence of a source sentence, denoted as $x$.
+  Neural machine translation is an approach that utilizes neural networks to transform a sequence of words from a source language, such as English, into a desired target language, such as French. More formally, neural machine translation involves finding the target sentence, denoted as $y$, that maximizes the conditional probability of $y$ given the occurrence of a source sentence, denoted as $x$.
 </p>
 
 <p align="justify"> &emsp;
-One approach for tackling this task is the sequence-to-sequence (*Seq2Seq*) framework, which is based on Recurrent Neural Networks (RNNs). In this framework, the RNN model processes an input sequence token by token and generates the output tokens in a similar sequential fashion.
+  One approach for tackling this task is the sequence-to-sequence (*Seq2Seq*) framework, which is based on Recurrent Neural Networks (RNNs). In this framework, the RNN model processes an input sequence token by token and generates the output tokens in a similar sequential fashion.
 </p>
-For this exercise, we explore the use of Sequence-to-Sequence RNNs with Attention to translate texts from one language to another. Specifically, we have the following learning objectives:
+
+<p align="justify"> &emsp;
+  For this exercise, we explore the use of Sequence-to-Sequence RNNs with Attention to translate texts from one language to another. Specifically, we have the following learning objectives:
+</p>
 
 <p align="justify"> &emsp;
 1. Describe what neural machine translation is and how it is done using a sequence-to-sequence RNN with attention.
