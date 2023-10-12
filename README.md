@@ -7,7 +7,7 @@
 </p>
 
 <p align="justify"> &emsp;
-  One approach for tackling this task is the sequence-to-sequence (*Seq2Seq*) framework, which is based on Recurrent Neural Networks (RNNs). In this framework, the RNN model processes an input sequence token by token and generates the output tokens in a similar sequential fashion.
+  One approach for tackling this task is the sequence-to-sequence (<strong><em>Seq2Seq</em></strong>) framework, which is based on Recurrent Neural Networks (RNNs). In this framework, the RNN model processes an input sequence token by token and generates the output tokens in a similar sequential fashion.
 </p>
 
 <p align="justify"> &emsp;
