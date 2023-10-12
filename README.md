@@ -1,6 +1,6 @@
-<![banner](https://github.com/lorainemnrc/rnn-machine-translation/assets/23328647/95d3f068-76d3-4086-86fb-553be5d8ea6c)
+![banner](https://github.com/lorainemnrc/rnn-machine-translation/assets/23328647/95d3f068-76d3-4086-86fb-553be5d8ea6c)
 
-h1 style="color: #1048CB"><b>Overview</b></h1>
+<h1 style="color: #1048CB"><b>Overview</b></h1>
 <p align="justify"> &emsp;
 Neural machine translation is an approach that utilizes neural networks to transform a sequence of words from a source language, such as English, into a desired target language, such as French. More formally, neural machine translation involves finding the target sentence, denoted as $y$, that maximizes the conditional probability of $y$ given the occurrence of a source sentence, denoted as $x$.
 </p>
