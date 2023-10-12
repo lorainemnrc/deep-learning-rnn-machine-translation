@@ -12,12 +12,19 @@ For this exercise, we explore the use of Sequence-to-Sequence RNNs with Attentio
 
 <p align="justify"> &emsp;
 1. Describe what neural machine translation is and how it is done using a sequence-to-sequence RNN with attention.
+  
 2. Describe the dataset being used in this example.
+   
 3. Describe the preprocessing steps being done in preparation for training the model.
+   
 4. Describe the postprocessing code/functions that have been created for performing inference and analyzing the model weights.
+   
 5. Compare and contrast the DecoderRNN and AttnDecoderRNN models in terms of loss, training time, parameter count, and quality of translation (qualitatively).
+   
 6. In the AttnDecoderRNN model, swap out the GRU for an LSTM. Compare and contrast the two models in terms of loss, training time, parameter count, and quality of translation.
-7. Using the best model you’ve found, perform translation on some samples (4 at least) and compare the results with Google Translate. No need to quantitatively evaluate this comparison.
+  
+7. Using the best model you’ve found, perform translation on some samples (4 at least) and compare the results with Google Translate. No need to evaluate this comparison.
+    
 8. Plot the attention weights for the samples you chose and describe the results.
 </p>
 
